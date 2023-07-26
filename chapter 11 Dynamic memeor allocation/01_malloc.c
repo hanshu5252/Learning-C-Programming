@@ -10,6 +10,7 @@ int main()
     }
     for(int i =0;i<6;i++){
         printf("the value of %d element is %d \n",i,ptr[i]);
-    }
+    }   
+    
     return 0;
 }
